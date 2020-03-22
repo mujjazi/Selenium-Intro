@@ -9,5 +9,5 @@ If you want to setup this project on your Windows PC then there is a simple guid
 
 In case of any questions, feel free to ask questions on:
 
-## LinkedIn: https://www.linkedin.com/in/mujjazi/
+## LinkedIn: https://www.linkedin.com/in/mujtabamehdi9/
 ## Slack: testautomationpk.slack.com 
